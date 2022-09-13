@@ -40,7 +40,7 @@ hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 
 ---
 
-### 🚀 &nbsp;Some Tools I Have Used and Learned
+### 🚀 &nbsp;Some Technologies & Tools I Have Used and Learned
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
