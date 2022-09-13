@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi visitor 👋
+
+I'm Leonardo Horikian! Seasoned leader, solution architect and developer with 20 years of strong technical experience who loves solving hard business problems using technology. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers.
 
 <!--
 **leohori/leohori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
