@@ -75,10 +75,6 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### ✍️ Blog Posts : 
 
 #### Oracle (in Spanish):
