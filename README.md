@@ -18,7 +18,7 @@ I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer 
 
 ```yaml
 name: Leonardo Horikian
-background: Seasoned leader, solution architect and developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+background: Seasoned leader, solution architect and developer
 located_in: Argentina, Buenos Aires
 current_job: Chief Solution Architect
 
