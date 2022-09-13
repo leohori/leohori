@@ -64,7 +64,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leohori&theme=dark)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
