@@ -9,7 +9,8 @@ I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer 
 <p align="center">
 <a href="https://www.buymeacoffee.com/leohori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<h1 align="left"></h1>
+
+---
 
 ### :man_technologist: &nbsp;About Me :
 
