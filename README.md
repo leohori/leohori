@@ -2,7 +2,7 @@
 
 I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer with 20 years of strong technical experience who loves solving hard business problems using technology. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers.
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
 "Debugging is fun, because it begins with a mystery"
 </p>
 <p align="center">
