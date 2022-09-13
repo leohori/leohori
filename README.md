@@ -19,14 +19,14 @@ I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer 
 I am a seasoned leader, solution architect and developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina (Buenos Aires).
 
 - 🔭 I’m working as a Chief Solution Architect.
-- ⚡ In my free time I read tech articles and I am constantly training in disruptive technologies.
+- ❤️ I love to read tech articles and train myself every day in disruptive technologies.
 - 📫 How to reach me:
      Wether you want to hire me, learn more about me or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian)<br>
      I look forward to hearing from you!
      
 ---
 
-### 🛠 &nbsp;Technologies & Tools that I use :
+### 🚀 &nbsp;Some Tools I Have Used and Learned
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
