@@ -20,7 +20,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 - 📫 How to reach me:
 
-Wether you want to hire me, have a question or just want to say hi, my inbox is always open! Feel free to send me an email or connect via LinkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian). I look forward to hearing from you!
+Wether you want to hire me, have a question or just want to say hi, my inbox is always open! Feel free to send me an email or connect via LinkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian). I look forward to hearing from you!
 
 <!--
 **leohori/leohori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
