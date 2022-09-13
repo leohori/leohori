@@ -18,7 +18,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 - 🔭 I’m working as a Chief Solution Architect.
 - ⚡ In my free time I read tech articles and I am constantly training in disruptive technologies.
 - 📫 How to reach me:
-     Wether you want to hire me, have a question or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian) 
+     Wether you want to hire me, have a question or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian) </p>
      I look forward to hearing from you!
 
 <!--
