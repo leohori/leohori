@@ -27,6 +27,7 @@ fields_of_interests:
     "DevOps",
     "Development", 
     "Cloud",
+    "Solution Architectures"
   ]
   
 hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
