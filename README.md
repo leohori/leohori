@@ -26,7 +26,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
      
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Technologies & Tools that I use :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
