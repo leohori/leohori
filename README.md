@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
 
 I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer with 20 years of strong technical experience who loves solving hard business problems using technology. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers.
 
