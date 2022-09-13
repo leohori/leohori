@@ -70,6 +70,8 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 ### ✍️ Blog Posts : 
 
+## Oracle:
+
 - [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html)
 - [Diferencias entre BETWEEN y >= <=](https://lhorikian.blogspot.com/2010/07/diferencias-entre-between-y.html)
 - [Crear una base de datos de prueba en minutos!](https://lhorikian.blogspot.com/2010/06/crear-una-base-de-datos-de-prueba-en.html)
@@ -82,10 +84,32 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 - [Cuántos registros hay en cada bloque de mi tabla?](https://lhorikian.blogspot.com/2009/05/cuantos-registros-hay-en-cada-bloque-de.html)
 - [Encriptando columnas con TDE (Transparent Data Encryption) en tablas con millones de registros](https://lhorikian.blogspot.com/2009/05/encriptando-columnas-con-tde-en-tablas.html)
 - [En lo posible, evitá utilizar el comando "EXPLAIN PLAN FOR" !!!](https://lhorikian.blogspot.com/2009/04/en-lo-posible-evita-utilizar-el-comando.html)
+- [Diferencias entre COUNT(1) y COUNT(*) - Parte 1](https://lhorikian.blogspot.com/2007/09/diferencias-entre-count1-y-count.html)
 - [Diferencias entre COUNT(1) y COUNT(*) - Parte 2](https://lhorikian.blogspot.com/2009/04/diferencias-entre-count1-y-count-parte.html)
 - [Explain Plan Vs. Bind Variables](https://lhorikian.blogspot.com/2008/09/explain-plan-vs-bind-variables_29.html)
 - [¿Tunear en base al COSTO del plan de ejecución?](https://lhorikian.blogspot.com/2008/02/tunear-en-base-al-costo-del-plan-de.html)
 - [DB_FILE_MULTIBLOCK_READ_COUNT (MBRC)](https://lhorikian.blogspot.com/2007/10/dbfilemultiblockreadcount-mbrc.html)
+- [Problemas utilizando Analytic Functions junto con PL/SQL en 8i](https://lhorikian.blogspot.com/2007/09/problemas-utilizando-analytic-functions.html)
+- [Problemas en Vistas Materializadas - Parte 1](https://lhorikian.blogspot.com/2007/09/problemas-en-la-creacin-de-vistas.html)
+- [Problemas en Vistas Materializadas - Parte 2](https://lhorikian.blogspot.com/2007/09/problemas-en-vistas-materializadas.html)
+- [Exchange Partition](https://lhorikian.blogspot.com/2007/09/exchange-partition.html)
+- [Buscar valores NULL en forma eficiente](https://lhorikian.blogspot.com/2007/09/buscar-valores-null-en-forma-eficiente.html)
+- [Estadísticas en tablas temporales](https://lhorikian.blogspot.com/2007/09/estadsticas-en-tablas-temporales.html)
+- [Las columnas más selectivas deberían ir al comienzo del índice?](https://lhorikian.blogspot.com/2007/09/las-columnas-ms-selectivas-deberan-ir.html)
+- [BULK COLLECT con miles de registros y la cláusula LIMIT](https://lhorikian.blogspot.com/2007/09/bulk-collect-con-miles-de-registros-y.html)
+- [Modificar millones de registros de una tabla](https://lhorikian.blogspot.com/2007/09/modificar-millones-de-registros-de-una.html)
+- [Clustering Factor](https://lhorikian.blogspot.com/2007/09/clustering-factor.html)
+- [Cantidad de CPU utilizada en un procedimiento](https://lhorikian.blogspot.com/2007/09/cantidad-de-cpu-utilizada-en-un.html)
+- [Comillas simples dentro de cadenas de texto en 10g](https://lhorikian.blogspot.com/2007/09/comillas-simples-dentro-de-cadenas-de.html)
+- [Buscar el valor MAX o MIN de un tabla de forma eficiente](https://lhorikian.blogspot.com/2007/09/buscar-el-valor-max-o-min-de-un-tabla.html)
+- [Utilizando Hint's sobre vistas](https://lhorikian.blogspot.com/2007/09/utilizando-hints-sobre-vistas.html)
+- [Monitoreando el progreso de largas ejecuciones](https://lhorikian.blogspot.com/2007/09/monitoreando-el-progreso-de-largas.html)
+- [Búsquedas Case-Insensitive](https://lhorikian.blogspot.com/2007/09/bsquedas-case-insensitive.html)
+- [ANYDATA](https://lhorikian.blogspot.com/2007/09/anydata.html)
+- [Foreign Keys no indexadas](https://lhorikian.blogspot.com/2007/09/foreign-keys-no-indexadas.html)
+- [Deadlocks --> ORA-00060](https://lhorikian.blogspot.com/2007/09/deadlocks-ora-00060.html)
+- [Estadísticas en paralelo](https://lhorikian.blogspot.com/2007/09/estadsticas-en-paralelo.html)
+- [Explain Plan vs. Autotrace Explain Plan](https://lhorikian.blogspot.com/2007/09/explain-plan-vs-autotrace-explain-plan.html)
 - []()
 - []()
 - []()
@@ -100,12 +124,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 <!--
 **leohori/leohori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
