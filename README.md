@@ -34,7 +34,8 @@ hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 
 - 📫 How to reach me:
      Wether you want to hire me, learn more about me or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian)<br>
-     I look forward to hearing from you!
+- 💼 Any freelance work? do reach, [email](mailto:leohori@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help!
 
 ---
 
