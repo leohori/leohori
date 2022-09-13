@@ -66,6 +66,11 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### ✍️ Blog Posts : 
+
+- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html)
 
 
 
