@@ -68,13 +68,14 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 ### 📈 &nbsp;My GitHub History!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leohori&theme=noctis_minimus&show_icons=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leohori&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
