@@ -11,6 +11,8 @@ I'm Leonardo Horikian! I am a seasoned leader, solution architect and developer 
 </p>
 <h1 align="left"></h1>
 
+### :man_technologist: &nbsp;About Me :
+
 - 📫 How to reach me:
 
 Wether you want to hire me, have a question or just want to say hi, my inbox is always open! Feel free to send me an email or connect via LinkedIn. I look forward to hearing from you!
