@@ -70,9 +70,19 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 ### ✍️ Blog Posts : 
 
-- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html  target="_blank)
-
-
+- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html)
+- [Diferencias entre BETWEEN y >= <=](https://lhorikian.blogspot.com/2010/07/diferencias-entre-between-y.html)
+- [Crear una base de datos de prueba en minutos!](https://lhorikian.blogspot.com/2010/06/crear-una-base-de-datos-de-prueba-en.html)
+- [Añadiendo columnas con valores por defecto y constraint NOT NULL en Oracle 11g](https://lhorikian.blogspot.com/2009/10/anadiendo-columnas-con-valores-por.html)
+- [TKPROF y el parámetro SYS=Y](https://lhorikian.blogspot.com/2009/10/tkprof-y-el-parametro-sysy.html)
+- [adiós a los RAW-devices en 12g...](https://lhorikian.blogspot.com/2009/07/adios-los-volumenes-raw-en-12g.html)
+- [Stress Test](https://lhorikian.blogspot.com/2009/06/stress-test.html)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 <!--
 **leohori/leohori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
