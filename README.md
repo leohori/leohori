@@ -70,7 +70,7 @@ I am a seasoned leader, solution architect and developer <img src="https://media
 
 ### ✍️ Blog Posts : 
 
-- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html)
+- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html  target="_blank)
 
 
 
