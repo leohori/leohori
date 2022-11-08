@@ -35,6 +35,10 @@ hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 - 💼 Any freelance work? do reach, [email](mailto:leohori@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help!
 
+By the way...
+
+👯 I’m looking to collaborate on Python projects
+
 ---
 
 ### 🚀 &nbsp;Some Technologies & Tools I Have Used and Learned
