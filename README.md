@@ -17,7 +17,7 @@ I am a seasoned leader, solution architect and developer with 20 years of strong
 name: Leonardo Horikian
 background: Seasoned leader, solution architect and developer
 located_in: Argentina, Buenos Aires
-current_job: Chief Solution Architect
+current_job: Cloud/DevOps Engineer
 
 fields_of_interests:
   [
