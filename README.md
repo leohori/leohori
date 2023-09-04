@@ -22,7 +22,9 @@ current_job: Cloud/DevOps Engineer
 fields_of_interests:
   [
     "DevOps",
-    "Development", 
+    "DevSecOps"
+    "Development",
+    "CI/CD"
     "Cloud",
     "Solution Architectures"
   ]
