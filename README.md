@@ -17,7 +17,7 @@ Passionate and results-driven IT professional with 20 years of deep technical ex
 
 ```yaml
 name: Leonardo Horikian
-background: Seasoned leader, solution architect and developer
+background: Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
 located_in: Argentina, Buenos Aires
 current_job: Cloud/DevOps Engineer
 
@@ -28,7 +28,9 @@ fields_of_interests:
     "Development",
     "CI/CD"
     "Cloud",
-    "Solution Architectures"
+    "Solution Architectures",
+    "Automation",
+    "Security"
   ]
   
 hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
