@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
 
-I am a seasoned leader, solution architect and developer with 20 years of strong technical experience who loves solving hard business problems using technology. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers.
+Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
+
+Passionate and results-driven IT professional with 20 years of deep technical experience in world-class companies. I thrive on solving complex business challenges through innovative technology solutions. With a detail-oriented and structured approach, I bring a creative mindset and strong technical expertise to every project. I’m always eager to explore new disruptive technologies, tackle tough challenges, and push boundaries to drive efficiency, security, and scalability.
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
 "Debugging is fun, because it begins with a mystery"
