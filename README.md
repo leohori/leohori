@@ -47,6 +47,34 @@ By the way...
 
 ---
 
+### 🚀 &nbsp;📊 GitHub Stats
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=leohori&show_icons=true&theme=radical" width= "433px">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=radical&langs_count=8">
+<br>
+<br>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=leohori&theme=radical&hide_border=false">
+</p>
+
+---
+
+### 🏆 &nbsp;Github Trophies
+
+<p align = "center">
+<img src = "https://github-profile-trophy.vercel.app/?username=leohori&theme=radical&row=2&column=3">
+</p>
+
+---
+
+### 💠 &nbsp;Badges
+
+<p align = "center">
+<a href = https://www.credly.com/badges/b7f807c9-6db7-40b0-8ac7-99003b7ed5d1><img src = "https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height = "100px" width = "auto"></a>
+</p>
+
+---
+
 ### 🚀 &nbsp;Some Technologies & Tools I Have Used and Learned
 
 <p>
@@ -85,16 +113,6 @@ By the way...
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 📈 &nbsp;My GitHub History
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leohori&theme=dark&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leohori&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leohori&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
