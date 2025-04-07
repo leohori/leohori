@@ -47,7 +47,7 @@ By the way...
 
 ---
 
-### 🚀 &nbsp;📊 GitHub Stats
+### 📊 &nbsp;GitHub Stats
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=leohori&show_icons=true&theme=radical" width= "433px">
@@ -73,6 +73,15 @@ By the way...
 <a href = https://www.credly.com/badges/b7f807c9-6db7-40b0-8ac7-99003b7ed5d1><img src = "https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height = "100px" width = "auto"></a>
 <a href = https://www.credly.com/badges/f8880619-7cdf-4fea-9309-e2158a6ff46e><img src = "https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height = "100px" width = "auto"></a>
 </p>
+
+- HashiCorp Certified: Terraform Associate
+- Certified Kubernetes Application Developer (CKAD)
+- Huawei Cloud Service Solutions Architect - Professional (HCIP)
+- SAP Certified Technology Associate - OS/DB Migration for SAP NetWeaver 7.30
+- Oracle Exalogic Elastic Cloud X2-2 Certified Implementation Specialist
+- Oracle Exadata 11g Certified Implementation Specialist
+- Oracle 9i Database Administrator Certified Associate
+- Oracle PL/SQL Developer Certified Associate
 
 ---
 
