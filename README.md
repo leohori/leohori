@@ -19,7 +19,7 @@ Passionate and results-driven IT professional with 20 years of deep technical ex
 name: Leonardo Horikian
 background: Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
 located_in: Argentina, Buenos Aires
-current_job: Cloud/DevOps Engineer
+current_job: Cloud Architect / DevOps / DevSecOps
 
 fields_of_interests:
   [
