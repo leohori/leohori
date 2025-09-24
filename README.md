@@ -74,6 +74,7 @@ By the way...
 <a href = https://www.credly.com/badges/f8880619-7cdf-4fea-9309-e2158a6ff46e><img src = "https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height = "100px" width = "auto"></a>
 </p>
 
+- AWS Certified Solutions Architect – Associate 
 - HashiCorp Certified: Terraform Associate
 - Certified Kubernetes Application Developer (CKAD)
 - Huawei Cloud Service Solutions Architect - Professional (HCIP)
