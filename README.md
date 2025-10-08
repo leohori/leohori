@@ -71,7 +71,7 @@ By the way...
 
 <p align = "center">
 <a href = https://www.credly.com/badges/2ad843d5-17c5-41c9-8532-cdaa3ab4c0fa><img src = "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height = "100px" width = "auto"></a>
-<a href = https://www.credly.com/badges/b7f807c9-6db7-40b0-8ac7-99003b7ed5d1><img src = "https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height = "100px" width = "auto"></a>
+<a href = https://www.credly.com/badges/b7f807c9-6db7-40b0-8ac7-99003b7ed5d1><img src = "https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" height = "100px" width = "auto"></a>
 <a href = https://www.credly.com/badges/f8880619-7cdf-4fea-9309-e2158a6ff46e><img src = "https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height = "100px" width = "auto"></a>
 </p>
 
