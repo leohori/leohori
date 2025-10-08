@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
 
-Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
+Tech Leader | Senior Cloud Solutions Architect | DevOps & DevSecOps Engineer | AWS Certified | Terraform Certified | Kubernetes Certified | x7 Oracle Certified | Huawei Certified | SAP Certified | Ex-Oracle | Ex-Huawei
 
 Passionate and results-driven IT professional with 20 years of deep technical experience in world-class companies. I thrive on solving complex business challenges through innovative technology solutions. With a detail-oriented and structured approach, I bring a creative mindset and strong technical expertise to every project. I’m always eager to explore new disruptive technologies, tackle tough challenges, and push boundaries to drive efficiency, security, and scalability.
 
