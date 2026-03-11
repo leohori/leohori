@@ -55,14 +55,6 @@ hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 
 ---
 
-### 🏆 &nbsp;Github Trophies
-
-<p align = "center">
-<img src = "https://github-profile-trophy.vercel.app/?username=leohori&theme=radical&row=2&column=3">
-</p>
-
----
-
 ### 💠 &nbsp;Badges
 
 <p align = "center">
