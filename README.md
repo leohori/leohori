@@ -27,6 +27,7 @@ fields_of_interests:
     "DevSecOps"
     "Development",
     "CI/CD"
+    "SRE",
     "Cloud",
     "Solution Architectures",
     "Automation",
