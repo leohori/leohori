@@ -2,7 +2,7 @@
 
 Tech Leader | Senior Cloud Solutions Architect | SRE | DevOps & DevSecOps Engineer | AWS Certified | Terraform Certified | Kubernetes Certified | x7 Oracle Certified | Huawei Certified | SAP Certified | Ex-Oracle | Ex-Huawei
 
-Passionate and results-driven IT professional with 20 years of deep technical experience in world-class companies. I thrive on solving complex business challenges through innovative technology solutions. With a detail-oriented and structured approach, I bring a creative mindset and strong technical expertise to every project. I’m always eager to explore new disruptive technologies, tackle tough challenges, and push boundaries to drive efficiency, security, and scalability.
+Passionate and results-driven IT professional with 24 years of experience in world-class companies. Specialized in designing secure, scalable, and innovative technology solutions to solve complex business challenges. Detail-oriented, structured, and creative, with a strong focus on efficiency, security, and continuous improvement.
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
 "Debugging is fun, because it begins with a mystery"
