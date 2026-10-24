@@ -31,50 +31,19 @@ module "leonardo" {
   }
 }
 ```
+### `terraform plan` — what I'm building now
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
+- Multi-account AWS orgs with Terragrunt, SCPs/RCPs and declarative policies as guardrails
+- EKS platforms with GitOps (ArgoCD), cost-aware node scheduling and observability
+- Security & compliance controls as code: Security Hub, GuardDuty, CloudTrail, Config, KMS
 
-Tech Leader | Senior Cloud Solutions Architect | SRE | DevOps & DevSecOps Engineer | AWS Certified | Terraform Certified | Kubernetes Certified | x7 Oracle Certified | Huawei Certified | SAP Certified | Ex-Oracle | Ex-Huawei
+### Stack
 
-Passionate and results-driven IT professional with 24 years of experience in world-class companies. Specialized in designing secure, scalable, and innovative technology solutions to solve complex business challenges. Detail-oriented, structured, and creative, with a strong focus on efficiency, security, and continuous improvement.
+[![Stack](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,linux,bash,python,githubactions,jenkins,grafana,prometheus,postgres,mysql,mongodb,kafka,nginx&perline=10)](https://skillicons.dev)
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-"Debugging is fun, because it begins with a mystery"
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/leohori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+### Writing
 
----
-  
-### :man_technologist: &nbsp;A Little Bit About Me and My Interests :
-
-```yaml
-name: Leonardo Horikian
-background: Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
-located_in: Argentina, Buenos Aires
-current_job: Cloud Architect / DevOps / DevSecOps
-
-fields_of_interests:
-  [
-    "DevOps",
-    "DevSecOps"
-    "Development",
-    "CI/CD"
-    "SRE",
-    "Cloud",
-    "Solution Architectures",
-    "Automation",
-    "Security"
-  ]
-  
-hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
-```
-
-- 📫 How to reach me:
-     Wether you want to hire me, learn more about me or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian)<br>
-- 💼 Any freelance work? do reach, [email](mailto:leohori@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help!
+Old-school Oracle internals blog (in Spanish, 2007–2010) — optimizer, parsing, indexing:
 
 ---
 
