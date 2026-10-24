@@ -1,75 +1,173 @@
-```console
-$ whoami
-leonardo horikian — cloud architect · SRE · DevSecOps · buenos aires, AR
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
 
-$ uptime
-24 years in prod, load average: oracle → huawei → aws
+Tech Leader | Senior Cloud Solutions Architect | SRE | DevOps & DevSecOps Engineer | AWS Certified | Terraform Certified | Kubernetes Certified | x7 Oracle Certified | Huawei Certified | SAP Certified | Ex-Oracle | Ex-Huawei
+
+Passionate and results-driven IT professional with 24 years of experience in world-class companies. Specialized in designing secure, scalable, and innovative technology solutions to solve complex business challenges. Detail-oriented, structured, and creative, with a strong focus on efficiency, security, and continuous improvement.
+
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
+"Debugging is fun, because it begins with a mystery"
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/leohori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
+---
+  
+### :man_technologist: &nbsp;A Little Bit About Me and My Interests :
+
+```yaml
+name: Leonardo Horikian
+background: Tech Project Leader / Senior Cloud Solutions Architect / DevOps & DevSecOps Engineer
+located_in: Argentina, Buenos Aires
+current_job: Cloud Architect / DevOps / DevSecOps
+
+fields_of_interests:
+  [
+    "DevOps",
+    "DevSecOps"
+    "Development",
+    "CI/CD"
+    "SRE",
+    "Cloud",
+    "Solution Architectures",
+    "Automation",
+    "Security"
+  ]
+  
+hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 ```
 
-```hcl
-module "leonardo" {
-  source  = "github.com/leohori"
-  version = "24.0.0" # years of experience, semver-compliant
+- 📫 How to reach me:
+     Wether you want to hire me, learn more about me or just want to say hi, my inbox is always open! Feel free to send me an email or connect via &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lhorikian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian)<br>
+- 💼 Any freelance work? do reach, [email](mailto:leohori@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help!
 
-  role     = "Tech Lead · Senior Cloud Solutions Architect · SRE · DevSecOps"
-  location = "ar-buenos-aires-1"
+---
 
-  previously = ["oracle", "huawei"]
-  focus      = ["landing-zones", "kubernetes", "iac", "zero-trust", "compliance-as-code", "finops"]
+### 💠 &nbsp;Badges
 
-  certifications = {
-    aws        = "Solutions Architect – Associate"
-    hashicorp  = "Terraform Associate"
-    cncf       = "CKAD"
-    huawei     = "HCIP Cloud Service Solutions Architect"
-    sap        = "OS/DB Migration for SAP NetWeaver 7.30"
-    oracle     = "x7 (Exadata, Exalogic, DBA, PL/SQL, …)"
-  }
+<p align = "center">
+<a href = https://www.credly.com/badges/2ad843d5-17c5-41c9-8532-cdaa3ab4c0fa><img src = "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height = "100px" width = "auto"></a>
+<a href = https://www.credly.com/badges/b7f807c9-6db7-40b0-8ac7-99003b7ed5d1><img src = "https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" height = "100px" width = "auto"></a>
+<a href = https://www.credly.com/badges/f8880619-7cdf-4fea-9309-e2158a6ff46e><img src = "https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height = "100px" width = "auto"></a>
+</p>
 
-  lifecycle {
-    prevent_destroy = true
-  }
-}
-```
+- AWS Certified Solutions Architect – Associate 
+- HashiCorp Certified: Terraform Associate
+- Certified Kubernetes Application Developer (CKAD)
+- Huawei Cloud Service Solutions Architect - Professional (HCIP)
+- SAP Certified Technology Associate - OS/DB Migration for SAP NetWeaver 7.30
+- Oracle Exalogic Elastic Cloud X2-2 Certified Implementation Specialist
+- Oracle Exadata 11g Certified Implementation Specialist
+- Oracle 9i Database Administrator Certified Associate
+- Oracle PL/SQL Developer Certified Associate
 
-### `terraform plan` — what I'm building now
+---
 
-- Multi-account AWS orgs with Terragrunt, SCPs/RCPs and declarative policies as guardrails
-- EKS platforms with GitOps (ArgoCD), cost-aware node scheduling and observability
-- Security & compliance controls as code: Security Hub, GuardDuty, CloudTrail, Config, KMS
+### 🚀 &nbsp;Some Technologies & Tools I Have Used and Learned
 
-### Stack
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/36578213?s=200&v=4" title="Huawei Cloud" alt="Huawei Cloud" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
+</p>
 
-[![Stack](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,linux,bash,python,githubactions,jenkins,grafana,prometheus,postgres,mysql,mongodb,kafka,nginx&perline=10)](https://skillicons.dev)
+---
 
-### Writing
+### ✍️ Blog Posts : 
 
-Old-school Oracle internals blog (in Spanish, 2007–2010) — optimizer, parsing, indexing:
+#### Oracle (in Spanish):
 
-- [Hard Parse, Soft Parse & "Softer" Soft Parse](https://lhorikian.blogspot.com/2007/07/hard-parse-soft-parse-softer-soft-parse.html)
-- [Clustering Factor](https://lhorikian.blogspot.com/2007/09/clustering-factor.html)
-- [¿Tunear en base al COSTO del plan de ejecución?](https://lhorikian.blogspot.com/2008/02/tunear-en-base-al-costo-del-plan-de.html)
-- [Diferencias entre COUNT(1) y COUNT(*)](https://lhorikian.blogspot.com/2009/04/diferencias-entre-count1-y-count-parte.html)
-- [Encriptando columnas con TDE en tablas con millones de registros](https://lhorikian.blogspot.com/2009/05/encriptando-columnas-con-tde-en-tablas.html)
-
-<details>
-<summary>…and 40+ more</summary>
-
-- [WHEN OTHERS THEN NULL ;](https://lhorikian.blogspot.com/2007/07/when-others-then-null.html)
-- [High Water Mark (HWM)](https://lhorikian.blogspot.com/2007/07/high-water-mark-hwm.html)
-- [Index-Skip Scans](https://lhorikian.blogspot.com/2007/08/index-skip-scans_30.html)
-- [Deadlocks --> ORA-00060](https://lhorikian.blogspot.com/2007/09/deadlocks-ora-00060.html)
-- [Foreign Keys no indexadas](https://lhorikian.blogspot.com/2007/09/foreign-keys-no-indexadas.html)
-- [DB_FILE_MULTIBLOCK_READ_COUNT (MBRC)](https://lhorikian.blogspot.com/2007/10/dbfilemultiblockreadcount-mbrc.html)
-- [Explain Plan Vs. Bind Variables](https://lhorikian.blogspot.com/2008/09/explain-plan-vs-bind-variables_29.html)
+- [Eliminar una consulta de la Shared Pool](https://lhorikian.blogspot.com/2010/07/eliminar-una-consulta-de-la-shared-pool.html)
+- [Diferencias entre BETWEEN y >= <=](https://lhorikian.blogspot.com/2010/07/diferencias-entre-between-y.html)
+- [Crear una base de datos de prueba en minutos!](https://lhorikian.blogspot.com/2010/06/crear-una-base-de-datos-de-prueba-en.html)
+- [Añadiendo columnas con valores por defecto y constraint NOT NULL en Oracle 11g](https://lhorikian.blogspot.com/2009/10/anadiendo-columnas-con-valores-por.html)
+- [TKPROF y el parámetro SYS=Y](https://lhorikian.blogspot.com/2009/10/tkprof-y-el-parametro-sysy.html)
+- [adiós a los RAW-devices en 12g...](https://lhorikian.blogspot.com/2009/07/adios-los-volumenes-raw-en-12g.html)
+- [Stress Test](https://lhorikian.blogspot.com/2009/06/stress-test.html)
+- [Costo super alto!](https://lhorikian.blogspot.com/2009/05/costo-super-alto.html)
 - [DML Error Logging](https://lhorikian.blogspot.com/2009/05/dml-error-logging.html)
-- [Full archive →](https://lhorikian.blogspot.com)
+- [Cuántos registros hay en cada bloque de mi tabla?](https://lhorikian.blogspot.com/2009/05/cuantos-registros-hay-en-cada-bloque-de.html)
+- [Encriptando columnas con TDE (Transparent Data Encryption) en tablas con millones de registros](https://lhorikian.blogspot.com/2009/05/encriptando-columnas-con-tde-en-tablas.html)
+- [En lo posible, evitá utilizar el comando "EXPLAIN PLAN FOR" !!!](https://lhorikian.blogspot.com/2009/04/en-lo-posible-evita-utilizar-el-comando.html)
+- [Diferencias entre COUNT(1) y COUNT(*) - Parte 1](https://lhorikian.blogspot.com/2007/09/diferencias-entre-count1-y-count.html)
+- [Diferencias entre COUNT(1) y COUNT(*) - Parte 2](https://lhorikian.blogspot.com/2009/04/diferencias-entre-count1-y-count-parte.html)
+- [Explain Plan Vs. Bind Variables](https://lhorikian.blogspot.com/2008/09/explain-plan-vs-bind-variables_29.html)
+- [¿Tunear en base al COSTO del plan de ejecución?](https://lhorikian.blogspot.com/2008/02/tunear-en-base-al-costo-del-plan-de.html)
+- [DB_FILE_MULTIBLOCK_READ_COUNT (MBRC)](https://lhorikian.blogspot.com/2007/10/dbfilemultiblockreadcount-mbrc.html)
+- [Problemas utilizando Analytic Functions junto con PL/SQL en 8i](https://lhorikian.blogspot.com/2007/09/problemas-utilizando-analytic-functions.html)
+- [Problemas en Vistas Materializadas - Parte 1](https://lhorikian.blogspot.com/2007/09/problemas-en-la-creacin-de-vistas.html)
+- [Problemas en Vistas Materializadas - Parte 2](https://lhorikian.blogspot.com/2007/09/problemas-en-vistas-materializadas.html)
+- [Exchange Partition](https://lhorikian.blogspot.com/2007/09/exchange-partition.html)
+- [Buscar valores NULL en forma eficiente](https://lhorikian.blogspot.com/2007/09/buscar-valores-null-en-forma-eficiente.html)
+- [Estadísticas en tablas temporales](https://lhorikian.blogspot.com/2007/09/estadsticas-en-tablas-temporales.html)
+- [Las columnas más selectivas deberían ir al comienzo del índice?](https://lhorikian.blogspot.com/2007/09/las-columnas-ms-selectivas-deberan-ir.html)
+- [BULK COLLECT con miles de registros y la cláusula LIMIT](https://lhorikian.blogspot.com/2007/09/bulk-collect-con-miles-de-registros-y.html)
+- [Modificar millones de registros de una tabla](https://lhorikian.blogspot.com/2007/09/modificar-millones-de-registros-de-una.html)
+- [Clustering Factor](https://lhorikian.blogspot.com/2007/09/clustering-factor.html)
+- [Cantidad de CPU utilizada en un procedimiento](https://lhorikian.blogspot.com/2007/09/cantidad-de-cpu-utilizada-en-un.html)
+- [Comillas simples dentro de cadenas de texto en 10g](https://lhorikian.blogspot.com/2007/09/comillas-simples-dentro-de-cadenas-de.html)
+- [Buscar el valor MAX o MIN de un tabla de forma eficiente](https://lhorikian.blogspot.com/2007/09/buscar-el-valor-max-o-min-de-un-tabla.html)
+- [Utilizando Hint's sobre vistas](https://lhorikian.blogspot.com/2007/09/utilizando-hints-sobre-vistas.html)
+- [Monitoreando el progreso de largas ejecuciones](https://lhorikian.blogspot.com/2007/09/monitoreando-el-progreso-de-largas.html)
+- [Búsquedas Case-Insensitive](https://lhorikian.blogspot.com/2007/09/bsquedas-case-insensitive.html)
+- [ANYDATA](https://lhorikian.blogspot.com/2007/09/anydata.html)
+- [Foreign Keys no indexadas](https://lhorikian.blogspot.com/2007/09/foreign-keys-no-indexadas.html)
+- [Deadlocks --> ORA-00060](https://lhorikian.blogspot.com/2007/09/deadlocks-ora-00060.html)
+- [Estadísticas en paralelo](https://lhorikian.blogspot.com/2007/09/estadsticas-en-paralelo.html)
+- [Explain Plan vs. Autotrace Explain Plan](https://lhorikian.blogspot.com/2007/09/explain-plan-vs-autotrace-explain-plan.html)
+- [Index-Skip Scans](https://lhorikian.blogspot.com/2007/08/index-skip-scans_30.html)
+- [APPEND hint](https://lhorikian.blogspot.com/2007/08/append-hint.html)
+- [WHEN OTHERS THEN NULL ;](https://lhorikian.blogspot.com/2007/07/when-others-then-null.html)
+- [Evitá el uso de Variables Globales](https://lhorikian.blogspot.com/2007/07/evit-el-uso-de-variables-globales.html)
+- [SQL Injection](https://lhorikian.blogspot.com/2007/07/sql-injection.html)
+- [High Water Mark (HWM)](https://lhorikian.blogspot.com/2007/07/high-water-mark-hwm.html)
+- [Modificar el prompt de SQL*Plus](https://lhorikian.blogspot.com/2007/07/modificar-el-prompt-de-sqlplus.html)
+- [Fast Dual](https://lhorikian.blogspot.com/2007/07/fast-dual_10.html)
+- [Hard Parse, Soft Parse & “Softer” Soft Parse](https://lhorikian.blogspot.com/2007/07/hard-parse-soft-parse-softer-soft-parse.html)
 
-</details>
 
-### Contact
+<!--
+**leohori/leohori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lhorikian-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhorikian)
-[![Email](https://img.shields.io/badge/email-leohori%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:leohori@gmail.com)
+Here are some ideas to get you started:
 
-<sub>`# "Debugging is fun, because it begins with a mystery."`</sub>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
