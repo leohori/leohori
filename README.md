@@ -46,7 +46,7 @@ hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
 
 ---
 
-### 💠 &nbsp;Badges
+### 💠 &nbsp;Certifications
 
 <p align = "center">
 <a href = https://www.credly.com/badges/2ad843d5-17c5-41c9-8532-cdaa3ab4c0fa><img src = "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height = "100px" width = "auto"></a>
