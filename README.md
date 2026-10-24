@@ -31,7 +31,9 @@ fields_of_interests:
     "Cloud",
     "Solution Architectures",
     "Automation",
-    "Security"
+    "Security",
+    "Compliance",
+    "FinOps"
   ]
   
 hobbies: ["Tech Articles", "Disruptive Technologies", "Movies"]
