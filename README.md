@@ -1,3 +1,37 @@
+```console
+$ whoami
+leonardo horikian — cloud architect · SRE · DevSecOps · buenos aires, AR
+
+$ uptime
+24 years in prod, load average: oracle → huawei → aws
+```
+
+```hcl
+module "leonardo" {
+  source  = "github.com/leohori"
+  version = "24.0.0" # years of experience, semver-compliant
+
+  role     = "Tech Lead · Senior Cloud Solutions Architect · SRE · DevSecOps"
+  location = "ar-buenos-aires-1"
+
+  previously = ["oracle", "huawei"]
+  focus      = ["landing-zones", "kubernetes", "iac", "zero-trust", "compliance-as-code", "finops"]
+
+  certifications = {
+    aws        = "Solutions Architect – Associate"
+    hashicorp  = "Terraform Associate"
+    cncf       = "CKAD"
+    huawei     = "HCIP Cloud Service Solutions Architect"
+    sap        = "OS/DB Migration for SAP NetWeaver 7.30"
+    oracle     = "x7 (Exadata, Exalogic, DBA, PL/SQL, …)"
+  }
+
+  lifecycle {
+    prevent_destroy = true
+  }
+}
+```
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Leonardo Horikian</h1>
 
 Tech Leader | Senior Cloud Solutions Architect | SRE | DevOps & DevSecOps Engineer | AWS Certified | Terraform Certified | Kubernetes Certified | x7 Oracle Certified | Huawei Certified | SAP Certified | Ex-Oracle | Ex-Huawei
